@@ -1,2 +1,15 @@
-# E-commerce-Website-By-Sombir-Dhaniya
-This project is for an e-commerce website that sells a variety of products, including t-shirts, accessories, dresses, and footwear. The website is currently having a sale on all t-shirts and accessories, with up to 70% off. They also have a buy one, get one free deal on the best classic dress. 
+# E-Commerce website html css
+
+in this repository you will see an html css template for a cool designed e-commerce website.
+
+## :heavy_check_mark: useful for who:
+
+-   wants to practice your html css skills
+
+## :heavy_check_mark: Authors
+
+-   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
+
+## :heavy_check_mark: License
+
+free for everyone to use in any good purposes :heart:
